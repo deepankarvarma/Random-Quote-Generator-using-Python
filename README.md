@@ -1,4 +1,4 @@
-# GitHub README for Minimal Random Quote Generator
+# Minimal Random Quote Generator
 
 This repository contains code for hosting a minimal quote generator website that displays a new quote every 5 seconds. The quotes are fetched from the [quotable API](https://api.quotable.io/). 
 
