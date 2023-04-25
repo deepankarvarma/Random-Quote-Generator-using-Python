@@ -22,6 +22,21 @@ Navigate to the repository directory and run the following command to start the 
 streamlit run app.py
 ```
 
+## Dependencies
+
+The following Python libraries are required to run the application:
+
+- `streamlit`
+- `requests`
+- `time`
+- `base64`
+
+You can install all these dependencies by running:
+
+```sh
+pip install -r requirements.txt
+```
+
 ## Usage
 
 Once the Streamlit app is running, a random quote will be displayed along with its author. The quote will change every 5 seconds. 
